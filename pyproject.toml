@@ -2,6 +2,7 @@
 name = "hello-world-api"
 version = "0.1.0"
 description = ""
+package-mode = false
 authors = [
     {name = "Melanie Huang",email = "melaniehuang0409@gmail.com"}
 ]
